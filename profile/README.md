@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://em-content.zobj.net/thumbs/120/google/350/potato_1f954.png" align="center" width="144px" height="144px"/>
@@ -17,11 +15,5 @@ That hurts.
 
 The family thinks always, from morning to evening
 about the potatoes...
-
-</div>
-
-<div align="center">
-
-[![Froggy Discord](https://img.shields.io/discord/1101655152462680064?style=for-the-badge&label&logo=discord&logoColor=white&color=blue)](https://discord.gg/qY7PNCs9UJ)&nbsp;&nbsp;&nbsp;
 
 </div>
